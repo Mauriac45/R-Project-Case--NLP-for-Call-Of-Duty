@@ -1,4 +1,4 @@
-
+## Call Of Duty- Text Analysis Project
 
 The Call of Duty League is an e-sports league based on Activision's Call of Duty video game. At the moment, the league has 13 teams, each having a large number of followers. The marketing team representing the league wants to add a new team called "Cleveland Fire." The company has provided me with a large amount of data.
 - 'teamTimeline' FOLDER - this file has one file with 26,781 tweets among 13 teams.
